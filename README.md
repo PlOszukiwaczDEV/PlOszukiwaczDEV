@@ -1,5 +1,5 @@
 Languages I know
-  JavaScript
+  #JavaScript
   Python 💪
   Scratch :trole:
   
