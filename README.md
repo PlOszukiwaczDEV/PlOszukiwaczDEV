@@ -1,5 +1,4 @@
 ### Languages I know
-- JavaScript
 - Python 💪
 - Scratch :trole:
   
@@ -7,13 +6,13 @@
 - C++
 - C#
 - Java
-- NodeJS
+- JavaScript
+- Html
 
 ### Tools is use
 - Visual Studio Code
 - PyCharm
 - Eclipse IDE for Java Developers
-- Blender
 
 
 ![PlOszukiwaczDEV`s GitHub stats](https://github-readme-stats.vercel.app/api?username=PlOszukiwaczDEV&show_icons=true&theme=dark)
