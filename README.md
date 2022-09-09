@@ -1,15 +1,4 @@
-### Languages I know
-- Python 💪
-- Scratch :trole:
-  
-### Languges I am learning
-- C++
-- C#
-- Java
-- JavaScript
-- Html
-
-### Tools is use
+### Tools i use
 - Visual Studio Code
 - PyCharm
 - Eclipse IDE for Java Developers
