@@ -1,5 +1,5 @@
-# Hi there, I'm PlOszukiwaczDEV!
+<h1 align="left">Hi, I'm PlOszukiwaczDEV</h1>
+<h3 align="left">I'm a Passionate Programmer and Developer </h3>
 
+<p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=PlOszukiwaczDEV&label=Profile%20views&color=0e75b6&style=flat" alt="PlOszukiwaczDEV" /> </p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PlOszukiwaczDEV&show_icons=true&theme=tokyonight" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlOszukiwaczDEV"/>
