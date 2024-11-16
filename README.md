@@ -25,10 +25,11 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/XmPm9nbd3u">Discord</a> — Join my server!<br>
+  <a href="https://discord.gg/zXFspU4qDu">Discord</a> — Join my server!<br>
   <a href="https://namemc.com/profile/PlOszukiwacz.1">NameMC</a> — Check out my Minecraft profile<br>
   <a href="https://www.twitch.tv/ploszukiwacz">Twitch</a> — Catch me live<br>
-  <a href="https://x.com/PlOszukiwacz">Twitter(X)</a> — Follow me for updates
+  <a href="https://x.com/PlOszukiwacz">Twitter(X)</a> — Follow me for updates<br>
+  <a href="https://matrix.to/#/@ploszukiwacz:matrix.org">Matrix</a> — Chat with me on matrix
 </p>
 
 <br />
